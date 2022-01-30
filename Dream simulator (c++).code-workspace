@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"iostream": "cpp",
+			"chrono": "cpp",
+			"cstdint": "cpp",
+			"bit": "cpp",
+			"fstream": "cpp"
+		}
+	}
+}
